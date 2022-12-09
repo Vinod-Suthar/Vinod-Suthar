@@ -5,7 +5,7 @@
 - 📫 How to reach me vinodvsuthar@gmail.com
 
 # 💫 About Me:
-I am a strong skillful, and self-organized Software developer with 6+<br>years experiences of developing infrastructure-related components<br>platform. optimizing the existing environments. Have strong<br>scripting knowledge, good understanding of infrastructure-as-a-<br>Code concepts. I am a strong team player.
+I am a strong skillful, and self-organized Software developer with 6+year's experience of developing infrastructure-related components platform. optimizing the existing environments. Have strong scripting knowledge, good understanding of infrastructure-as-a-Code concepts. I am a strong team player.
 
 
 ## 🌐 Socials:
