@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vinod-Suthar
-- 🚀 I’m Android & iOS Developer
-- 📱 Instagram: androidgitdev
-- 🌱 I’m currently learning SwiftUI 
+- 🚀 I’m Full Stack Developer 
 - 📫 How to reach me vinodvsuthar@gmail.com
 
 # 💫 About Me:
